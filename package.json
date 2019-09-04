@@ -1,0 +1,19 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Svetislavoid/math.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Svetislavoid/math/issues"
+  },
+  "homepage": "https://github.com/Svetislavoid/math#readme"
+}
